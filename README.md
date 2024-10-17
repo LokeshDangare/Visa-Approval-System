@@ -36,3 +36,14 @@ pip install -r requirements.txt
 2. entity
 3. components
 4. pipeline
+5. main file
+
+
+## Export the environment variables
+```bash
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+```
+
+
+
